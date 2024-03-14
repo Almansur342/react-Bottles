@@ -1,0 +1,27 @@
+ [
+    {
+      "id": 1,
+      "name": "Apple Watch Series 6",
+      "price": 399
+    },
+    {
+      "id": 2,
+      "name": "Galaxy Watch 4",
+      "price": 249
+    },
+    {
+      "id": 3,
+      "name": "Versa 3",
+      "price": 229
+    },
+    {
+      "id": 4,
+      "name": "Vivoactive 4",
+      "price": 299
+    },
+    {
+      "id": 5,
+      "name": "lula 4",
+      "price": 299
+    }
+   ]
